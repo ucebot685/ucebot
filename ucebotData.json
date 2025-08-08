@@ -1,0 +1,19 @@
+{
+  "dailyWords": [
+    { "samoan": "Fa'amālō", "english": "Well done" },
+    { "samoan": "Mālō le soifua", "english": "Greetings / Hello" },
+    { "samoan": "Tautua", "english": "Serve / Service" },
+    { "samoan": "Uso", "english": "Brother (same gender)" },
+    { "samoan": "Talofa", "english": "Hello" }
+  ],
+  "proverbs": [
+    "O le ala i le pule o le tautua. (The path to leadership is through service.)",
+    "E le sili le ta'i i lo le tapua'i. (Faithfulness is greater than ability.)",
+    "E lele le toloa ae ma’au i le vai. (The duck may fly, but it will always return to water.)"
+  ],
+  "encouragements": [
+    "Ia e loto toa – be strong and courageous!",
+    "E alofa le Atua ia te oe. (God loves you.)",
+    "Toe sa'ilia pea lou fa'amoemoe. (Keep searching for your purpose.)"
+  ]
+}
